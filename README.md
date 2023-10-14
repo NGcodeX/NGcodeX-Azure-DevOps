@@ -2,6 +2,8 @@
 
 This repository serves as the central hub for managing all NGcodeX enterprise projects using Azure DevOps. Azure DevOps provides a comprehensive set of tools for continuous integration, continuous delivery, and collaboration, streamlining our development and delivery processes.
 
+![IMAGE](https://github.com/NGcodeX/NGcodeX-Azure-DevOps/blob/main/.github/workflows/private/NGcodeXDevOps.PNG?raw=true)
+
 ## What is Azure DevOps?
 
 [Azure DevOps](https://dev.azure.com/ngcodex) is an integrated set of development tools and services that facilitates collaboration between software development and IT operations teams. It covers the entire development lifecycle, from planning and coding to testing and deployment.
