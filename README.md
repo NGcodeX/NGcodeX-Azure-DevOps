@@ -8,6 +8,8 @@ This repository serves as the central hub for managing all NGcodeX enterprise pr
 
 [Azure DevOps](https://dev.azure.com/ngcodex) is an integrated set of development tools and services that facilitates collaboration between software development and IT operations teams. It covers the entire development lifecycle, from planning and coding to testing and deployment.
 
+![Azure Image](https://github.com/NGcodeX/NGcodeX-Azure-DevOps/blob/main/.github/workflows/private/MicrosoftTeams-image-92-1.png?raw=true)
+
 ## Key Features
 
 ### **Project Management**
@@ -37,6 +39,8 @@ To get started with NGcodeX projects in Azure DevOps:
 1. **Sign up**: Ensure you have an account on [Azure DevOps](https://dev.azure.com/ngcodex).
 2. **Explore Projects**: Navigate to [Projects](https://dev.azure.com/ngcodex/) to see the list of NGcodeX projects.
 3. **Get Involved**: If you are a team member assigned to a project, follow the project-specific documentation for development and collaboration.
+
+![DevOps Offering](https://github.com/NGcodeX/NGcodeX-Azure-DevOps/blob/main/.github/workflows/private/azure-devops-offerings.jpg?raw=true)
 
 ## Contribution Guidelines
 
